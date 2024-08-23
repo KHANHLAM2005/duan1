@@ -1,10 +1,10 @@
 body {
-  background-image: url(/img/tom-gainor-QP9f-kTfTRk-unsplash.jpg);
+  background-image: url(https://kynguyenlamdep.com/wp-content/uploads/2020/04/bau-troi-may-trang-768x510.jpg);
   background-size: 100%;
   /*ngăn lặp lại hình ảnh*/
   background-repeat: no-repeat;
   background-position: center;
-  color: rgb(240, 240, 246);
+  color: rgb(0, 0, 0);
   font-size: 35;
   text-align: left;
 }
