@@ -4,7 +4,7 @@ body {
   /*ngăn lặp lại hình ảnh*/
   background-repeat: no-repeat;
   background-position: center;
-  color: rgb(0, 0, 0);
+  color: rgb(255, 255, 255);
   font-size: 35;
   text-align: left;
 }
@@ -13,4 +13,7 @@ h1 {
 }
 img {
   float: left;
+}
+h1 {
+  text-align: center;
 }
