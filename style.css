@@ -1,0 +1,16 @@
+body {
+  background-image: url(/img/tom-gainor-QP9f-kTfTRk-unsplash.jpg);
+  background-size: 100%;
+  /*ngăn lặp lại hình ảnh*/
+  background-repeat: no-repeat;
+  background-position: center;
+  color: rgb(240, 240, 246);
+  font-size: 35;
+  text-align: left;
+}
+h1 {
+  text-transform: uppercase;
+}
+img {
+  float: left;
+}
